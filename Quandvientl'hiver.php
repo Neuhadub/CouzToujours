@@ -57,6 +57,8 @@ e.	Machine à laver la vaisselle : débrancher l'électricité, couper le robine
 f.	WC (salle de bain, cuisine, jaurinus) : tirer au moins deux fois la chasse d'eau jusqu'à vider le réservoir ; mettre une poignée de gros sel dans la cuvette, ou à défaut vider l'eau et boucher avec un papier journal pour empêcher les remontées d'odeurs. 
 </p>
 
+	<li><a href="AccueilCodex_Margoticus.php">Accueil</a></li><!--
+
     <?php include("../include/entete.php"); ?>
     <?php include("../include/laterale.php"); ?>
 
