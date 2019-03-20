@@ -35,6 +35,7 @@ INTENDANCE, ACHATS, REPARATIONS
 -	Pour de grosses réparations, ou les gros achats, sauf urgence parlez-en d'abord au CA de l’Association (voir fiche contact)
 
 </>
+		<li><a href="AccueilCodex_Margoticus.php">Accueil</a></li><!--
 
     <?php include("../include/entete.php"); ?>
     <?php include("../include/laterale.php"); ?>
