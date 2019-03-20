@@ -37,6 +37,9 @@ Torchons => placard au-dessus du lave-vaisselle
 Allumettes
 </> 
 
+	<li><a href="AccueilCodex_Margoticus.php">Accueil</a></li><!--
+		
+
 
     <?php include("../include/entete.php"); ?>
     <?php include("../include/laterale.php"); ?>
