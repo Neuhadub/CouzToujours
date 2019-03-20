@@ -39,8 +39,9 @@ COURSES
 -	A COMPLETER…
 
 </p> 
+	<li><a href="AccueilCodex_Margoticus.php">Accueil</a></li><!--
 
-
+	
     <?php include("../include/entete.php"); ?>
     <?php include("../include/laterale.php"); ?>
 
